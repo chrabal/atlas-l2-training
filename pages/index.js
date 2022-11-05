@@ -3,22 +3,22 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <section className={styles.container}>
-      //comment
+      {/* JSX comment*/}
       <section>
         <h3>Objective</h3>
         <p>Here are some objectives!!!</p>
       </section>
-       //comment
+       {/* JSX comment*/}
       <section>
         <h3>Experience</h3>
         <p>Here are some experiences!!!</p>
       </section>
-       //comment
+       {/* JSX comment*/}
       <section>
         <h3>Education</h3>
         <p>Here is my education!!!!!!!!</p>
       </section>
-       //comment
+      {/* JSX comment*/}
       <section>
       <p>Fun</p>
       <h3>This is fun!</h3>
