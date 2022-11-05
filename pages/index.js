@@ -2,6 +2,8 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
+   // this is also a valid comment
+  /* this is also valid */
     <section className={styles.container}>
       {/* JSX comment*/}
       <section>
@@ -32,5 +34,7 @@ export default function Home() {
       <h2>It is a lot of fun to learn HTML and JS and React</h2>
       </section>
     </section>
+  // this is also a valid comment
+  /* this is also valid */
   )
 }
