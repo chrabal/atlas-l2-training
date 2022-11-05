@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <section className={styles.container}>
       <p>Fun</p>
-      <p>Fun2<p>
+      <p>Fun2</p>
       <p>Fun3</p>
       <h2>Hello, my name is Craig Hrabal</h2>
       <h1>I am learning!</h1>
