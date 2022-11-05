@@ -4,22 +4,22 @@ export default function Home() {
   return (
     <header className={styles.container}>
       <h1>Craig's Resume<h1>
-      //<!--- OBJECTIVE STATEMENT -->
+ <!-- <p>This is another paragraph </p> -->
       <section>
         <h3>Objective</h3>
         <p>Here are some objectives!!!</p>
       </section>
-      //<!--- EXPERIENCE STATEMENT -->
+  <!-- <p>This is another paragraph </p> -->
       <section>
         <h3>Experience</h3>
         <p>Here are some experiences!!!</p>
       </section>
-      //<!--- EXPERIENCE STATEMENT -->
+    <!-- <p>This is another paragraph </p> -->
       <section>
         <h3>Education</h3>
         <p>Here is my education!!!!!!!!</p>
       </section>
-      //<!--- OTHER STUFF -->
+    <!-- <p>This is another paragraph </p> -->
       <p>Fun</p>
       <h3>This is fun!</h3>
       <p>Fun2</p>
