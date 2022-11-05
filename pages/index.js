@@ -7,5 +7,12 @@ export default function Home() {
       <h1>I am learning!</h1>
       <h2>It is a lot of fun to learn HTML and JS and React</h2>
     </div>
+      <h1>fun</h1>
+    <div>
+      <h1>fun2<h1>
+    </div>
+    <div>
+      <h1>fun3</h1>
+    </div>
   )
 }
