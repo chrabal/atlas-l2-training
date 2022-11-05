@@ -2,10 +2,24 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <body className={styles.container}> 
+    <body className={styles.container}>
+      <h1>Craig's Resume<h1>
+      <!--- OBJECTIVE STATEMENT -->
       <section>
         <h3>Objective</h3>
         <p>Here are some objectives!!!</p>
+      </section>
+      <!--- EXPERIENCE STATEMENT -->
+      <section>
+        <h3>Experience</h3>
+        <p>Here are some experiences!!!</p>
+      </section>
+      <!--- EXPERIENCE STATEMENT -->
+      <section>
+        <h3>Education</h3>
+        <p>Here is my education!!!!!!!!</p>
+      </section>
+        <!--- OTHER STUFF -->
       <p>Fun</p>
       <h3>This is fun!</h3>
       <p>Fun2</p>
