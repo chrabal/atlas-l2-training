@@ -2,7 +2,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <header className={styles.container}>
+    <article className={styles.container}>
       //comment
       <section>
         <h3>Objective</h3>
@@ -29,6 +29,6 @@ export default function Home() {
       <h2>Hello, my name is Craig Hrabal</h2>
       <h1>I am learning!</h1>
       <h2>It is a lot of fun to learn HTML and JS and React</h2>
-    </header>
+    </article>
   )
 }
