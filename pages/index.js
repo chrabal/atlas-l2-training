@@ -29,6 +29,14 @@ export default function Home() {
       <p>Fun3</p>
       <br></br>
       <br></br>
+      {/* It also works 
+       for multi-line comments. 
+      comment
+      commment
+      */}
+      {
+      //more comments woo!!!! 
+      }
       <h2>Hello, my name is Craig Hrabal</h2>
       <h1>I am learning!</h1>
       <h2>It is a lot of fun to learn HTML and JS and React</h2>
