@@ -2,7 +2,10 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <section className={styles.container}>
+    <body className={styles.container}> 
+      <section>
+        <h3>Objective</h3>
+        <p>Here are some objectives!!!</p>
       <p>Fun</p>
       <h3>This is fun!</h3>
       <p>Fun2</p>
@@ -13,6 +16,6 @@ export default function Home() {
       <h2>Hello, my name is Craig Hrabal</h2>
       <h1>I am learning!</h1>
       <h2>It is a lot of fun to learn HTML and JS and React</h2>
-    </section>
+    </body>
   )
 }
