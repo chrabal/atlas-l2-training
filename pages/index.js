@@ -3,7 +3,6 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <header className={styles.container}>
-      <h1>Craig's Resume</h1>
       //comment
       <section>
         <h3>Objective</h3>
