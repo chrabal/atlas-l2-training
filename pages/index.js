@@ -25,8 +25,8 @@ export default function Home() {
       <p>Fun2</p>
       <h3>This is fun!</h3>
       <p>Fun3</p>
-      <br>
-      <br>
+      <br></br>
+      <br></br>
       <h2>Hello, my name is Craig Hrabal</h2>
       <h1>I am learning!</h1>
       <h2>It is a lot of fun to learn HTML and JS and React</h2>
