@@ -9,7 +9,7 @@ export default function Home() {
     </div>
       <h1>fun</h1>
     <div>
-      <h1>fun2<h1>
+      <h1>fun2</h1>
     </div>
     <div>
       <h1>fun3</h1>
