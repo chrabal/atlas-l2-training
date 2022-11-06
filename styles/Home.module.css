@@ -4,5 +4,8 @@
   color: paleturquoise;
 }
 .paras {
-  color: pink;
+  color: yellow;
+}
+p.newparas {
+  color: green;
 }
