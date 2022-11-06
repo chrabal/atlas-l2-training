@@ -5,7 +5,7 @@
 }
 
 p.paras {
-  color: blue;
+  color: yellow;
   background-color: pink;
 }
 
@@ -15,7 +15,7 @@ h3.paras {
 }
 
 h2.paras {
-  color: red;
+  color: green;
   background-color: pink;
 }
 
@@ -30,6 +30,6 @@ h3.otherother {
 }
 
 h2.otherother {
-  color: yellow;
+  color: blue;
   background-color: white;
 }
