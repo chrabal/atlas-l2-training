@@ -7,8 +7,22 @@ body {
 }
 
 h3 {
+  text-align: center;
   color:red;
   background:white;
+}
+
+h1 {
+  text-align: center;
+  transition-property: width;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s;
+}
+
+h2 {
+  background:white;
+  color:red;
 }
 
 a {
