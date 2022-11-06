@@ -38,7 +38,7 @@ export default function Home() {
       //more comments woo!!!! 
       }
       <h2 className={styles.otherother}>Hello, my name is Craig Hrabal</h2>
-      <h1 className={styles.paras}1>I am learning!</h1>
+      <h1 className={styles.paras}>I am learning!</h1>
       <h2 className={styles.paras}>It is a lot of fun to learn HTML and JS and React</h2>
       </section>
     </section>
