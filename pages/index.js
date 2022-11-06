@@ -7,26 +7,26 @@ export default function Home() {
     <section className={styles.container}>
       {/* JSX comment*/}
       <section>
-        <h3>Objective</h3>
+        <h3 className={styles.otherother}>Objective</h3>
         <p className={styles.paras}>Here are some objectives!!!</p>
       </section>
        {/* JSX comment*/}
       <section>
-        <h3>Experience</h3>
-        <p>Here are some experiences!!!</p>
+        <h3 className={styles.paras}>Experience</h3>
+        <p className={styles.paras}>Here are some experiences!!!</p>
       </section>
        {/* JSX comment*/}
       <section>
-        <h3>Education</h3>
-        <p>Here is my education!!!!!!!!</p>
+        <h3 className={styles.otherother}>Education</h3>
+        <p className={styles.otherother}>Here is my education!!!!!!!!</p>
       </section>
       {/* JSX comment*/}
       <section>
-      <p>Fun</p>
-      <h3>This is fun!</h3>
-      <p>Fun2</p>
-      <h3>This is fun!</h3>
-      <p>Fun3</p>
+      <p className={styles.otherother}>Fun</p>
+      <h3 className={styles.paras}>This is fun!</h3>
+      <p className={styles.otherother}>Fun2</p>
+      <h3 className={styles.paras}>This is fun!</h3>
+      <p className={styles.paras}>Fun3</p>
       <br></br>
       <br></br>
       {/* It also works 
@@ -37,9 +37,9 @@ export default function Home() {
       {
       //more comments woo!!!! 
       }
-      <h2>Hello, my name is Craig Hrabal</h2>
-      <h1>I am learning!</h1>
-      <h2>It is a lot of fun to learn HTML and JS and React</h2>
+      <h2 className={styles.otherother}>Hello, my name is Craig Hrabal</h2>
+      <h className={styles.paras}1>I am learning!</h1>
+      <h2 className={styles.paras}>It is a lot of fun to learn HTML and JS and React</h2>
       </section>
     </section>
   // this is also a valid comment
