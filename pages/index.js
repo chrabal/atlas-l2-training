@@ -8,7 +8,7 @@ export default function Home() {
       {/* JSX comment*/}
       <section>
         <h3>Objective</h3>
-        <p>Here are some objectives!!!</p>
+        <p className={styles.paras}>Here are some objectives!!!</p>
       </section>
        {/* JSX comment*/}
       <section>
