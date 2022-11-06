@@ -3,7 +3,33 @@
   text-align: left;
   color: paleturquoise;
 }
-.paras {
-  color: yellow;
+
+p.paras {
+  color: blue;
   background-color: pink;
+}
+
+h3.paras {
+  color: white;
+  background-color: pink;
+}
+
+h2.paras {
+  color: red;
+  background-color: pink;
+}
+
+p.otherother {
+  color: black;
+  background-color: white;
+}
+
+h3.otherother {
+  color: red;
+  background-color: white;
+}
+
+h2.otherother {
+  color: yellow;
+  background-color: white;
 }
